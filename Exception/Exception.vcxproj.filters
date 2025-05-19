@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exception_Nested_try_catch.cpp">
+    <ClCompile Include="Exception_Myself_Exeption.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
